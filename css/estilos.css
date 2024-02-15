@@ -3,3 +3,12 @@ body {
     color: palevioletred;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+footer {
+    color: black;
+    position: fixed;
+    bottom: 30px;
+    border-top: 1px solid gray;
+    width: 100%;
+    padding-top: 20px;
+}
