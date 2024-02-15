@@ -3,3 +3,9 @@ body {
     color: palevioletred;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+header {
+    text-align: left;
+    margin-left: 50px;
+    color: gray;
+}
